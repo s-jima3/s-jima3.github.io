@@ -1,0 +1,12 @@
+#使ってみてもらえれば嬉しいです
+
+##Android
+###Switch to Lock Screen
+
+###The Usual
+いつもの」フレーズを簡単に送信！  
+日常のための定型文共有ツールです。  
+[説明書](the_usual_phrase/instructions.md)
+
+##Windows
+###Switch to Lock Screen
