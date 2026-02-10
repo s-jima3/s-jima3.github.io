@@ -5,7 +5,6 @@ soulfulz
 
 ## Android
 ### Switch to Lock Screen
-[1](the_usual_phrase)  
 
 ### The Usual
 いつもの」フレーズを簡単に送信！  
