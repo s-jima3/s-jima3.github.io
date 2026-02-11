@@ -1,3 +1,6 @@
+---
+title: ""
+---
 # 使ってみてもらえれば嬉しいです
 <div style="text-align: right;">
 soulfulz
