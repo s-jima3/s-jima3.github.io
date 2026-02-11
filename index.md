@@ -12,3 +12,5 @@
 
 ## Windows
 調整中
+
+## [PrivacyPolicy](./privacypolicy/)
