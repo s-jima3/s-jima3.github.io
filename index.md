@@ -13,4 +13,5 @@
 ## Windows
 調整中
 
-## [PrivacyPolicy](./privacypolicy/)
+## PrivacyPolicy
+[PrivacyPolicy](https://s-jima3.github.io/privacypolicy/)
