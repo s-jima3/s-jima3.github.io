@@ -9,9 +9,7 @@ title: The Usual 説明書
 いつもの」フレーズを簡単に送信！  
 日常のための定型文共有ツールです。  
 
-<div style="text-align: right;">
-[戻る](..)  
-</div>
+[<div style="text-align: right;">戻る</div>](..)  
 
 ## はじめに（概要）
 アプリ名 : The Usual  
@@ -33,8 +31,8 @@ Lineや+メッセージなどのチャット、メールやメモなど、いつ
 Android 12以上
 
 <div style="text-align: right;">
-[戻る](..)  
-</div>
+[戻る]
+</div>(..)  
 
 ## 操作手順（画面ごとの詳細）
 
