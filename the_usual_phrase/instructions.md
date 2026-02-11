@@ -8,9 +8,10 @@ title: The Usual 説明書
 
 いつもの」フレーズを簡単に送信！  
 日常のための定型文共有ツールです。  
+<div style="text-align: right;">
 
 [戻る](..)  
-
+</div>
 ## はじめに（概要）
 アプリ名 : The Usual  
 目的 : 定型文送信アプリ  
