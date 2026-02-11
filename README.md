@@ -2,5 +2,6 @@
 ### Switch to Lock Screen  
 ### The Usual  
 
-by sjima3  
-(soulfulz 別室)
+<div style="text-align: right;">
+by jima3 (soulfulz 別室)  
+</div>
