@@ -9,7 +9,7 @@ title: The Usual 説明書
 いつもの」フレーズを簡単に送信！  
 日常のための定型文共有ツールです。  
 
-[<div style="text-align: right;">戻る</div>](..)  
+戻る(..)  
 
 ## はじめに（概要）
 アプリ名 : The Usual  
@@ -30,9 +30,7 @@ Lineや+メッセージなどのチャット、メールやメモなど、いつ
 ## 利用環境（動作環境）
 Android 12以上
 
-<div style="text-align: right;">
-[戻る]
-</div>(..)  
+[戻る](..)  
 
 ## 操作手順（画面ごとの詳細）
 
@@ -78,9 +76,7 @@ Android 12以上
 ##### [ 上下 ] ボタン
 定型文ボタンの位置を上下に移動できます。  
 
-<div style="text-align: right;">
 [戻る](..)  
-</div>
 
 ### 新しい定型文 / 定型文を編集 画面
 
@@ -104,9 +100,7 @@ Android 12以上
 定型文を削除します。  
 ※削除の確認画面が表示されます。  
 
-<div style="text-align: right;">
 [戻る](..)  
-</div>
 
 ### メニュー
 
@@ -126,6 +120,4 @@ Android 12以上
 #### [公式サイト](..)
 [プライバシーポリシー](https://s-jima3.github.io/privacy-policy/)や開発者の情報、他にもあらゆる問い合わせ先などは公式サイトからお願いします。  
 
-<div style="text-align: right;">
 [戻る](..)  
-</div>
