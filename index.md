@@ -1,8 +1,5 @@
 
 # 使ってみてもらえれば嬉しいです
-<div style="text-align: right;">
-soulfulz
-</div>
 
 ## Android
 ### Switch to Lock Screen
