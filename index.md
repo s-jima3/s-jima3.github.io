@@ -14,4 +14,4 @@
 調整中
 
 ## PrivacyPolicy
-[PrivacyPolicy](https://s-jima3.github.io/privacypolicy/)
+[PrivacyPolicy](https://s-jima3.github.io/privacy-policy/)
