@@ -2,6 +2,7 @@
 # 使ってみてもらえれば嬉しいです
 
 ## Android
+
 ### Switch to Lock Screen
 
 ### The Usual
@@ -10,4 +11,4 @@
 [説明書](the_usual_phrase/instructions.md)
 
 ## Windows
-### Switch to Lock Screen
+調整中
