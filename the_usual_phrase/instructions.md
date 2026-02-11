@@ -11,6 +11,7 @@ title: The Usual 説明書
 <div style="text-align: right;">
 
 [戻る](..)  
+
 </div>
 ## はじめに（概要）
 アプリ名 : The Usual  
