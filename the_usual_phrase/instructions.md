@@ -1,3 +1,16 @@
+
+---
+layout: default
+title: 説明書
+---
+
+{% raw %}
+{% include_relative README.md %}
+{% endraw %}
+
+
+
+
 # The Usual
 
 いつもの」フレーズを簡単に送信！  
