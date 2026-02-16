@@ -7,6 +7,8 @@ layout: default
 ## Android
 
 ### Switch to Lock Screen
+タップして画面ロック！  
+[Switch to Lock Screen](switch_to_lock_screen/)
 
 ### The Usual
 いつものフレーズを簡単に送信！  
