@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
-title: "アプリ紹介"
-description: "自作アプリの案内ページです"
+
+title: "アプリの案内"
+description: "自作アプリの紹介ページです"
+show_downloads: false
