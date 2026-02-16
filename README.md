@@ -1,4 +1,4 @@
-[SoulfulSoft](images/soulfulsoft.svg)
+![SoulfulSoft](images/soulfulsoft.svg)
 
 ## Android
 ### Switch to Lock Screen
