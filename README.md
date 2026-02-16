@@ -1,4 +1,4 @@
-<img src="images/soulfulsoft.svg" alt="SoulfulSoft" width="46" />
+# <img src="images/soulfulsoft.svg" alt="SoulfulSoft" width="64" /> SoulfulSoft
 
 ## Android
 ### Switch to Lock Screen
