@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 使ってみてもらえれば嬉しいです
 
 ## Android
