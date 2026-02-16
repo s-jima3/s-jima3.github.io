@@ -39,3 +39,7 @@ title: Switch to Lock Screen
 <!--
 [![GooglePlay](../GetItOnGooglePlay_Badge_Web_color_Japanese.svg)](https://play.google.com/store/apps/details?id=com.soulfulz.switchtolockscreen)
 -->
+
+<div style="text-align: right;">
+<a href="../"><img src="../images/soulfulsoft.svg" width="48"></a>
+</div>
