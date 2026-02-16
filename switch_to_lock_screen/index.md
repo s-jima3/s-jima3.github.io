@@ -4,12 +4,16 @@ title: Switch to Lock Screen
 
 # Switch to Lock Screen
 
------  
-このアプリは、AccessibilityService API を使用し、画面ロックを行うアプリです。  
 -----
+
+このアプリは、AccessibilityService API を使用し、画面ロックを行うアプリです。  
+
+-----
+
 画面ロックには「ユーザー補助」権限の許可に同意が必要です。  
 ［設定］-［ユーザー設定］-「Switch to Lock Screen」を「ON」にしてください。  
 権限の許可に同意（ON）が無い場合は作動しません。  
+
 -----
 
 ## タップして画面ロック！
