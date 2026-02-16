@@ -1,3 +1,19 @@
+<style>
+  body {
+    font-size: 18px; /* 文字を少し大きく */
+    line-height: 1.6; /* 行間を広げて読みやすく */
+    padding: 20px;   /* 端に余白を作る */
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  @viewport {
+    width: device-width;
+  }
+</style>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+---
+
 # 使ってみてもらえれば嬉しいです
 
 ## Android
