@@ -36,4 +36,6 @@ title: Switch to Lock Screen
 
 アプリを登録することが出来るなら、本アプリを設定して便利にお使いいただけます。  
 
+<!--
 [![GooglePlay](../GetItOnGooglePlay_Badge_Web_color_Japanese.svg)](https://play.google.com/store/apps/details?id=com.soulfulz.switchtolockscreen)
+-->
