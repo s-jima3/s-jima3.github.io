@@ -2,7 +2,7 @@
 title: Switch to Lock Screen
 ---
 
-# <span style=" display: flex; align-items: center; height: 64px;">![Switch to Lock Screen](https://play-lh.googleusercontent.com/gWpMGlFzeQmuf-SHLfvtNTuJ77p61TY853xL5MbW2Z40-Kd7jSqb3aS2e6syEcfL0A=w240-h480-rw)</span>Switch to Lock Screen
+# <span style=" display: flex; align-items: center; height: 64px;"><img src="https://play-lh.googleusercontent.com/gWpMGlFzeQmuf-SHLfvtNTuJ77p61TY853xL5MbW2Z40-Kd7jSqb3aS2e6syEcfL0A=w240-h480-rw" alt="Switch to Lock Screen" />Switch to Lock Screen</span>
 
 <!--
 ![Switch to Lock Screen](https://play-lh.googleusercontent.com/gWpMGlFzeQmuf-SHLfvtNTuJ77p61TY853xL5MbW2Z40-Kd7jSqb3aS2e6syEcfL0A=w240-h480-rw)
