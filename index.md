@@ -1,4 +1,4 @@
-# 使ってみてもらえれば嬉しいです
+# <img src="images/soulfulsoft.svg" width="64"> SoulfulSoft
 
 ## Android
 
