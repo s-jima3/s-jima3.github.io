@@ -5,6 +5,7 @@ title: Switch to Lock Screen
 # Switch to Lock Screen
 
 ![Switch to Lock Screen](https://play-lh.googleusercontent.com/gWpMGlFzeQmuf-SHLfvtNTuJ77p61TY853xL5MbW2Z40-Kd7jSqb3aS2e6syEcfL0A=w240-h480-rw)
+<a href="https://play.google.com/store/apps/details?id=com.soulfulz.switchtolockscreen" target="_blank"><img src="../GetItOnGooglePlay_Badge_Web_color_Japanese.svg" width="300"></a>
 
 -----
 
@@ -17,11 +18,6 @@ title: Switch to Lock Screen
 権限の許可に同意（ON）が無い場合は作動しません。  
 
 -----
-
-[![GooglePlay](../GetItOnGooglePlay_Badge_Web_color_Japanese.svg)](https://play.google.com/store/apps/details?id=com.soulfulz.switchtolockscreen)
-
-
-<a href="https://play.google.com/store/apps/details?id=com.soulfulz.switchtolockscreen" target="_blank"><img src="../GetItOnGooglePlay_Badge_Web_color_Japanese.svg" width="300"></a>
 
 ## タップして画面ロック！
 
@@ -38,3 +34,5 @@ title: Switch to Lock Screen
 - 画面ジェスチャー など  
 
 アプリを登録することが出来るなら、本アプリを設定して便利にお使いいただけます。  
+
+[![GooglePlay](../GetItOnGooglePlay_Badge_Web_color_Japanese.svg)](https://play.google.com/store/apps/details?id=com.soulfulz.switchtolockscreen)
