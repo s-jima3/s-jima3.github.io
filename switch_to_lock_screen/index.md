@@ -4,6 +4,8 @@ title: Switch to Lock Screen
 
 # Switch to Lock Screen
 
+![Switch to Lock Screen](https://play-lh.googleusercontent.com/gWpMGlFzeQmuf-SHLfvtNTuJ77p61TY853xL5MbW2Z40-Kd7jSqb3aS2e6syEcfL0A=w240-h480-rw)
+
 -----
 
 このアプリは、AccessibilityService API を使用し、画面ロックを行うアプリです。  
@@ -15,6 +17,9 @@ title: Switch to Lock Screen
 権限の許可に同意（ON）が無い場合は作動しません。  
 
 -----
+
+[![GooglePlay](../GetItOnGooglePlay_Badge_Web_color_Japanese.svg)](https://play.google.com/store/apps/details?id=com.soulfulz.switchtolockscreen)
+
 
 ## タップして画面ロック！
 
