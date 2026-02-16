@@ -4,12 +4,13 @@
 
 ### Switch to Lock Screen
 タップして画面ロック！  
-[Switch to Lock Screen](switch_to_lock_screen/)
+[案内](switch_to_lock_screen/)
 
 ### The Usual
 いつものフレーズを簡単に送信！  
 日常のための定型文共有ツールです。  
-[説明書](the_usual_phrase/instructions.md)
+[案内](the_usual_phrase/)
+[説明書](the_usual_phrase/instructions.html)
 
 ## Windows
 調整中
