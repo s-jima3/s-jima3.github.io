@@ -21,6 +21,8 @@ title: Switch to Lock Screen
 [![GooglePlay](../GetItOnGooglePlay_Badge_Web_color_Japanese.svg)](https://play.google.com/store/apps/details?id=com.soulfulz.switchtolockscreen)
 
 
+<a href="https://play.google.com/store/apps/details?id=com.soulfulz.switchtolockscreen" target="_blank"><img src="../GetItOnGooglePlay_Badge_Web_color_Japanese.svg" width="300"></a>
+
 ## タップして画面ロック！
 
 アプリをワン・タップしたらロック画面に切り替わります。  
