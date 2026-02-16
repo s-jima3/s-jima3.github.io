@@ -1,18 +1,14 @@
 <style>
   body {
-    font-size: 18px; /* 文字を少し大きく */
-    line-height: 1.6; /* 行間を広げて読みやすく */
-    padding: 20px;   /* 端に余白を作る */
-    max-width: 800px;
-    margin: 0 auto;
-  }
-  @viewport {
-    width: device-width;
+    font-size: 16px;      /* 標準的な読みやすいサイズ */
+    line-height: 1.6;     /* 行間を広げて視認性アップ */
+    padding: 20px;        /* 画面の端に余白を作る */
+    max-width: 800px;     /* 横に広がりすぎないように制限 */
+    margin: 0 auto;       /* 中央寄せ */
+    font-family: sans-serif; /* ゴシック体系で見やすく */
   }
 </style>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
----
 
 # 使ってみてもらえれば嬉しいです
 
