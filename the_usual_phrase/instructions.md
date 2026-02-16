@@ -1,8 +1,3 @@
----
-layout: default
-title: The Usual 説明書
----
-
 # The Usual
 ### "The Usual"のダウンロードに感謝いたします。
 
