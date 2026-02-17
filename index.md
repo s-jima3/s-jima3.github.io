@@ -15,7 +15,7 @@
 [案内](the_usual_phrase/) 
 [説明書](the_usual_phrase/instructions.html)
 
-<a href="https://play.google.com/store/apps/developer?id=jima3" target="_blank"><img src="../images/GetItOnGooglePlay_Badge_Web_color_Japanese.svg" width="200"></a>
+<a href="https://play.google.com/store/apps/developer?id=jima3" target="_blank"><img src="images/GetItOnGooglePlay_Badge_Web_color_Japanese.svg" width="200"></a>
 
 ## Windows
 調整中
