@@ -9,7 +9,7 @@
 タップして画面ロック！  
 [案内](switch_to_lock_screen/)
 
-### <span style="vertical-align: middle;"><img src="images/tup_01.svg" width="48" alt="" /> The Usual</span>
+### <span style="vertical-align: middle;"><img src="images/tup_01_withback.svg" width="48" alt="" /> The Usual</span>
 いつものフレーズを簡単に送信！  
 日常のための定型文共有ツールです。  
 [案内](the_usual_phrase/) 
