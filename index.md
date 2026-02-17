@@ -1,7 +1,7 @@
 <!--
 # <span style="vertical-align: middle;"><img src="images/soulfulsoft.svg" width="64"> SoulfulSoft</span>
 -->
-# <span style="display: flex; justify-content: center; align-items: center; height: 100vh;"><img src="images/soulfulsoft.svg" width="64"> SoulfulSoft</span>
+# <span style="display: flex; justify-content: center; align-items: center; height: 100vh;"><img src="images/soulfulsoft.svg" width="64" alt="" /> SoulfulSoft</span>
 
 ## Android
 
@@ -9,7 +9,7 @@
 タップして画面ロック！  
 [案内](switch_to_lock_screen/)
 
-### The Usual
+### <span style="vertical-align: middle;"><img src="images/tup_01.svg" width="48" alt="" /> The Usual</span>
 いつものフレーズを簡単に送信！  
 日常のための定型文共有ツールです。  
 [案内](the_usual_phrase/) 
