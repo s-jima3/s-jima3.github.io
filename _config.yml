@@ -3,4 +3,4 @@ theme: jekyll-theme-cayman
 title: "アプリの案内"
 description: "自作アプリの紹介ページです"
 show_downloads: false
-copylight: &copy; SoulfulSoft(soulfulz.com)
+copyright: © SoulfulSoft(soulfulz.com)
