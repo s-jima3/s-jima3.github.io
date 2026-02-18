@@ -11,12 +11,11 @@
 [案内](the_usual_phrase/) 
 [説明書](the_usual_phrase/instructions.html)
 
-<a href="https://play.google.com/store/apps/developer?id=jima3" target="_blank"><img src="images/GetItOnGooglePlay_Badge_Web_color_Japanese.svg" width="200"></a>
-
 ### <span style="vertical-align: middle;"><img src="https://play-lh.googleusercontent.com/gWpMGlFzeQmuf-SHLfvtNTuJ77p61TY853xL5MbW2Z40-Kd7jSqb3aS2e6syEcfL0A=w240-h480-rw" width="48" alt="" /> Switch to Lock Screen</span>
 タップして画面ロック！  
 [案内](switch_to_lock_screen/)
 
+<a href="https://play.google.com/store/apps/developer?id=jima3" target="_blank"><img src="images/GetItOnGooglePlay_Badge_Web_color_Japanese.svg" width="200"></a>
 
 ## Windows
 調整中
