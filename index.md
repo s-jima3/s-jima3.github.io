@@ -5,7 +5,7 @@
 
 ## Android
 
-### <span style="vertical-align: middle;"><img src="images/tup_01_withback.svg" width="48" alt="" /> The Usual</span>
+### <span style="vertical-align: middle;"><img src="https://play-lh.googleusercontent.com/0XRizqlMfVaaj48bfIkqFI5tRS8VsvOYYVgA7OfJ79YBJHDEd5b7QtSMB4K26LzCXlOUpqCHOQMCC1pC7Vd0dQ=s64-rw" width="48" alt="" /> The Usual</span>
 いつものフレーズを簡単に送信！  
 日常のための定型文共有ツールです。  
 [案内](the_usual_phrase/) 
