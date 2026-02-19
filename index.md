@@ -7,7 +7,7 @@
 
 ### <span style="vertical-align: middle;"><img src="https://play-lh.googleusercontent.com/0XRizqlMfVaaj48bfIkqFI5tRS8VsvOYYVgA7OfJ79YBJHDEd5b7QtSMB4K26LzCXlOUpqCHOQMCC1pC7Vd0dQ=s64-rw" width="48" alt="" /> The Usual</span>
 いつものフレーズを簡単に送信！  
-日常のための定型文共有ツールです。  
+日常のための定型文活用ツールです。  
 [案内](the_usual_phrase/) 
 [説明書](the_usual_phrase/instructions.html)
 
