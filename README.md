@@ -9,7 +9,10 @@
 
 ### The Usual  
 
+[![The Usual](https://play-lh.googleusercontent.com/0XRizqlMfVaaj48bfIkqFI5tRS8VsvOYYVgA7OfJ79YBJHDEd5b7QtSMB4K26LzCXlOUpqCHOQMCC1pC7Vd0dQ=w240-h480-rw)](https://play.google.com/store/apps/details?id=com.soulfulz.theusualphrase)
+
 [![The Usual](https://play-lh.googleusercontent.com/0XRizqlMfVaaj48bfIkqFI5tRS8VsvOYYVgA7OfJ79YBJHDEd5b7QtSMB4K26LzCXlOUpqCHOQMCC1pC7Vd0dQ=s64-rw)](https://play.google.com/store/apps/details?id=com.soulfulz.theusualphrase)
+
 
 <a href="https://play.google.com/store/apps/details?id=com.soulfulz.theusualphrase" target="_blank"><img src="images/GetItOnGooglePlay_Badge_Web_color_Japanese.svg" width="300"></a>
 
