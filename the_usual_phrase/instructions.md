@@ -1,5 +1,6 @@
 ---
 title: The Usual 説明書
+topa: ".."
 ---
 
 # The Usual
@@ -26,10 +27,6 @@ Lineや+メッセージなどのチャット、メールやメモなど、いつ
 
 ## 利用環境（動作環境）
 Android 12以上
-
-<div style="text-align: right;">
-<a href="../"><img src="../images/soulfulsoft.svg" width="48"></a>
-</div>
 
 ## 操作手順（画面ごとの詳細）
 
@@ -97,10 +94,6 @@ Android 12以上
 定型文を削除します。  
 ※削除の確認画面が表示されます。  
 
-<div style="text-align: right;">
-<a href="../"><img src="../images/soulfulsoft.svg" width="48"></a>
-</div>
-
 ### メニュー
 
 #### + 新しい定型文を追加
@@ -118,10 +111,6 @@ Android 12以上
 このページです。  
 #### 公式サイト
 [プライバシーポリシー](https://s-jima3.github.io/privacy-policy/)や開発者の情報、他にもあらゆる問い合わせ先などは[公式サイト](..)からお願いします。  
-
-<div style="text-align: right;">
-<a href="../"><img src="../images/soulfulsoft.svg" width="48"></a>
-</div>
 
 ## 【重要】データのバックアップと機種変更時の引き継ぎについて
 本アプリは、皆様のプライバシーを保護するため、サーバーを介さない設計となっております。データの保存および引き継ぎに関しては、以下の点をご確認ください。  
@@ -148,6 +137,8 @@ Android標準の**「Auto Backup（Googleドライブへのバックアップ）
 複数端末での利用やバックアップ設定の状態、過去にインストールしたアプリなどの作用によりデータが引き継げない場合があります。  
 当方ではデータの補完や寄付状況の復旧は行えませんのでご了承ください。
 
+<!--
 <div style="text-align: right;">
 <a href="../"><img src="../images/soulfulsoft.svg" width="48"></a>
 </div>
+-->
