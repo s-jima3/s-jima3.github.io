@@ -72,7 +72,7 @@ Android標準の「Auto Backup（Googleドライブへのバックアップ）�
 * 複雑な多機能アプリよりも、シンプルで軽いツールを求める方
 * 老眼等で、小さな文字の判別が大変に感じる方
 
-<a href="https://play.google.com/store/apps/details?id=com.soulfulz.theusualphrase" target="_blank"><img src="images/GetItOnGooglePlay_Badge_Web_color_Japanese.svg" width="300"></a>
+<a href="https://play.google.com/store/apps/details?id=com.soulfulz.theusualphrase" target="_blank"><img src="../images/GetItOnGooglePlay_Badge_Web_color_Japanese.svg" width="300"></a>
 
 <div style="text-align: right;">
 <a href="../"><img src="../images/soulfulsoft.svg" width="48"></a>
