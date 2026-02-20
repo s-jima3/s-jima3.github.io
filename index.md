@@ -1,3 +1,8 @@
+---
+layout: site-top
+title: SoulfulSoft
+---
+
 <!--
 # <span style="vertical-align: middle;"><img src="images/soulfulsoft.svg" width="64"> SoulfulSoft</span>
 -->
