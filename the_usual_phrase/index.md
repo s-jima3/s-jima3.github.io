@@ -2,7 +2,9 @@
 title: The Usual
 ---
 
-# The Usual
+# 
+[![The Usual](https://play-lh.googleusercontent.com/0XRizqlMfVaaj48bfIkqFI5tRS8VsvOYYVgA7OfJ79YBJHDEd5b7QtSMB4K26LzCXlOUpqCHOQMCC1pC7Vd0dQ=w240-h480-rw)](https://play.google.com/store/apps/details?id=com.soulfulz.theusualphrase)
+ The Usual
 
 ## 「いつもの」フレーズを簡単に送信
 
@@ -69,6 +71,8 @@ Android標準の「Auto Backup（Googleドライブへのバックアップ）�
 * LINEやメールの返信を少しでも速くしたい方
 * 複雑な多機能アプリよりも、シンプルで軽いツールを求める方
 * 老眼等で、小さな文字の判別が大変に感じる方
+
+<a href="https://play.google.com/store/apps/details?id=com.soulfulz.theusualphrase" target="_blank"><img src="images/GetItOnGooglePlay_Badge_Web_color_Japanese.svg" width="300"></a>
 
 <div style="text-align: right;">
 <a href="../"><img src="../images/soulfulsoft.svg" width="48"></a>
