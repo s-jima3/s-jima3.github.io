@@ -1,5 +1,6 @@
 ---
-title: Switch to Lock Screen
+title: "Switch to Lock Screen"
+topa: ".."
 ---
 
 # Switch to Lock Screen <img src="https://play-lh.googleusercontent.com/gWpMGlFzeQmuf-SHLfvtNTuJ77p61TY853xL5MbW2Z40-Kd7jSqb3aS2e6syEcfL0A=w240-h480-rw" width="128" alt="" />
@@ -41,7 +42,8 @@ title: Switch to Lock Screen
 <!--
 [![GooglePlay](../GetItOnGooglePlay_Badge_Web_color_Japanese.svg)](https://play.google.com/store/apps/details?id=com.soulfulz.switchtolockscreen)
 -->
-
+<!--
 <div style="text-align: right;">
 <a href="../"><img src="../images/soulfulsoft.svg" width="64"></a>
 </div>
+-->
