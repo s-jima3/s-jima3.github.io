@@ -1,6 +1,6 @@
 ---
 title: Switch to Lock Screen
-sheader: "<span style=\" text-align: right; font-size: 0.8rem;\"><img src=\"../images/soulfulsoft.svg\" height=\"64\" alt=\"SoulfulSoftLogo\" />SoulfulSoft</span><hr />"
+sheader: "<span style=\" text-align: right; font-size: 0.8rem;\"><a href=\"..\"><img src=\"../images/soulfulsoft.svg\" height=\"24\" alt=\"SoulfulSoftLogo\" /></a>SoulfulSoft - {{ page.title }}</span><hr />"
 ---
 
 # Switch to Lock Screen だ <img src="https://play-lh.googleusercontent.com/gWpMGlFzeQmuf-SHLfvtNTuJ77p61TY853xL5MbW2Z40-Kd7jSqb3aS2e6syEcfL0A=w240-h480-rw" width="128" alt="" />
