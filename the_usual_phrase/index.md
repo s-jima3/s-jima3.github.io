@@ -2,9 +2,9 @@
 title: The Usual
 ---
 
-# 
+# The Usual
+
 [![The Usual](https://play-lh.googleusercontent.com/0XRizqlMfVaaj48bfIkqFI5tRS8VsvOYYVgA7OfJ79YBJHDEd5b7QtSMB4K26LzCXlOUpqCHOQMCC1pC7Vd0dQ=w240-h480-rw)](https://play.google.com/store/apps/details?id=com.soulfulz.theusualphrase)
- The Usual
 
 ## 「いつもの」フレーズを簡単に送信
 
