@@ -6,7 +6,7 @@ title: SoulfulSoft
 <!--
 # <span style="vertical-align: middle;"><img src="images/soulfulsoft.svg" width="64"> SoulfulSoft</span>
 -->
-# <span style="display: flex; justify-content: center; align-items: center; height: 100vh;"><img src="images/soulfulsoft.svg" width="64" alt="" /> SoulfulSoft</span>
+# <span style="display: flex; justify-content: center; align-items: center; height: 100vh;"><img src="images/soulfulsoft.svg" width="64" alt="" /><br />SoulfulSoft</span>
 
 ## Android
 
