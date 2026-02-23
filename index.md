@@ -7,7 +7,7 @@ title: SoulfulSoft
 # <span style="vertical-align: middle;"><img src="images/soulfulsoft.svg" width="64"> SoulfulSoft</span>
 -->
 
-<div style="display: flex; justify-content: center; align-items: center; height: 80vh;"><img src="images/soulfulsoft.svg" width="64" alt="" /><br /><span style=" font-size: 5vh;">SoulfulSoft</span></div>
+<div style="display: flex; justify-content: center; align-items: center; height: 80vh;"><img src="images/soulfulsoft.svg" width="64" alt="" /></div><div style=" font-size: 5vh;">SoulfulSoft</div>
 
 # SoulfulSoft
 
